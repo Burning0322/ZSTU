@@ -1,0 +1,27 @@
+
+Pinging www.lacnic.net [200.3.14.145] with 32 bytes of data:
+Reply from 200.3.14.145: bytes=32 time=330ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=321ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=331ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=329ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=326ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=329ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=331ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=327ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=321ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=330ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=330ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=319ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=329ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=333ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=332ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=321ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=321ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=330ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=331ms TTL=44
+Reply from 200.3.14.145: bytes=32 time=325ms TTL=44
+
+Ping statistics for 200.3.14.145:
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 319ms, Maximum = 333ms, Average = 327ms

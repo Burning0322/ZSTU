@@ -1,0 +1,27 @@
+
+Pinging www.ip.cn [172.67.174.23] with 32 bytes of data:
+Reply from 172.67.174.23: bytes=32 time=300ms TTL=51
+Reply from 172.67.174.23: bytes=32 time=300ms TTL=51
+Reply from 172.67.174.23: bytes=32 time=299ms TTL=51
+Reply from 172.67.174.23: bytes=32 time=300ms TTL=51
+Reply from 172.67.174.23: bytes=32 time=300ms TTL=51
+Reply from 172.67.174.23: bytes=32 time=303ms TTL=51
+Request timed out.
+Reply from 172.67.174.23: bytes=32 time=302ms TTL=51
+Reply from 172.67.174.23: bytes=32 time=300ms TTL=51
+Reply from 172.67.174.23: bytes=32 time=299ms TTL=51
+Reply from 172.67.174.23: bytes=32 time=303ms TTL=51
+Reply from 172.67.174.23: bytes=32 time=302ms TTL=51
+Reply from 172.67.174.23: bytes=32 time=302ms TTL=51
+Reply from 172.67.174.23: bytes=32 time=302ms TTL=51
+Reply from 172.67.174.23: bytes=32 time=302ms TTL=51
+Request timed out.
+Reply from 172.67.174.23: bytes=32 time=301ms TTL=51
+Request timed out.
+Request timed out.
+Reply from 172.67.174.23: bytes=32 time=300ms TTL=51
+
+Ping statistics for 172.67.174.23:
+    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 299ms, Maximum = 303ms, Average = 300ms

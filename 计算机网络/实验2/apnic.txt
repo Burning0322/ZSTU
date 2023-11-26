@@ -1,0 +1,27 @@
+
+Pinging www.apnic.net.cdn.cloudflare.net [104.18.236.68] with 32 bytes of data:
+Reply from 104.18.236.68: bytes=32 time=141ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=142ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=140ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=141ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=140ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=144ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=141ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=140ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=142ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=142ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=143ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=142ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=142ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=141ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=142ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=142ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=141ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=142ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=141ms TTL=51
+Reply from 104.18.236.68: bytes=32 time=141ms TTL=51
+
+Ping statistics for 104.18.236.68:
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 140ms, Maximum = 144ms, Average = 141ms
