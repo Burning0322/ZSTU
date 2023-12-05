@@ -1,0 +1,175 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header_top
+{
+    display: block;
+    height: 37px;
+    background-color:#f3f3f3;
+}
+
+.header_top ul li
+{
+    list-style: none;
+    padding: 7px;
+}
+.header_top ul li a
+{
+    text-decoration: none;
+    color: black;
+    color: black;
+}
+.left
+{
+    float: left;
+}
+.right
+{
+    float: right;
+}
+.header_medium
+{
+    display: block;
+    height: 80px;
+}
+
+.header_medium img
+{
+    height: 60px;
+    width: 74px;
+}
+.header_medium .title
+{
+    padding-top: 10px;
+    color: red;
+}
+.header_medium .title_des
+{
+    color: #818181;
+}
+.header_medium button
+{
+    background-color: #b40404;
+    color: white;
+}
+.header_medium .right
+{
+    padding-bottom: 5px;
+}
+.header_bottom
+{
+    display: block;
+    height: 40px;
+    background-color: #b40404;
+    padding-top: 20px;
+}
+.header_bottom ul li a
+{
+    text-decoration: none;
+    color: white;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.body_top
+{
+    margin: 10px;
+}
+.body_top img
+{
+    width: auto;
+    height: auto;
+    position: absolute;
+    transition: opacity 1s ease-in-out;
+}
+.body_top img:not(:first-child) {
+    opacity: 0;
+}
+
+.body_medium h3
+{
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+.body_medium h5
+{
+    display: block;
+    text-indent: 2em;
+    color: #888888;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #888888;
+}
+.body_medium ul li a
+{
+    text-decoration: none;
+    color: black;
+}
+.body_medium ul li
+{
+    margin: 22px;
+}
+.bbtitle
+{
+    margin-left: 15px;
+   color: #b40404;
+}
+.body_bottom ul li h4
+{
+    color: #b40404;
+}
+
+.body_bottom ul li
+{
+    list-style: none;
+    width: 260px;
+    margin: 13px;
+}
+.body_bottom ul li img
+{
+    width: 250px;
+    height: 125px;
+}
+.body_bottom2 h3
+{
+    color: #b40404;
+}
+.body_bottom2 ul li
+{
+    list-style: none;
+}
+.img
+{
+    margin: 5px;
+    width: 300px;
+    height: 130px;
+}
+.footer
+{
+    margin-top: 20px;
+    display: block;
+    height: 200px;
+    width: 1470px;
+    background-color: #333333;
+}
+.footer_top ul li
+{
+    list-style: none;
+    margin-top: 60px;
+    margin-left:85px;
+}
+.blank
+{
+    color: white;
+}
+.footer_top ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+.footer_bottom
+{
+    margin-top: 100px;
+    margin-left: 480px;
+    color: white;
+}
