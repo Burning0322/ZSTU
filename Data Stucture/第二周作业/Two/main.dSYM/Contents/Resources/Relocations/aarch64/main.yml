@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/renhonglow/Desktop/第二周作业1/Two/main"
+relocations:     []
+...
